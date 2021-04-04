@@ -6,13 +6,14 @@ public class Sample2 {
 
         /*
         int → 整数値を宣言
+        double → 実数を宣言（小数など）
          */
 
         // 変数の宣言
         int a;
 
         // 初期化と代入を同時に行う
-        int b = 3;
+        int b = 5;
 
         // 複数の変数を同時に宣言
         int add, sub;
@@ -21,7 +22,7 @@ public class Sample2 {
         double avg;
 
         // 代入（初期化）
-        a = 6;
+        a = 8;
 
         // aとbの和を求める
         add = a + b;
