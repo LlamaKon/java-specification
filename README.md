@@ -20,3 +20,5 @@
     - if文
     - else文
     - else if文
+    - if文を使ったサイコロ
+    - switch文
