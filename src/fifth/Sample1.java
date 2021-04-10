@@ -15,8 +15,13 @@ public class Sample1 {
         d[2] = 4.1;
         sum = 0.0;
 
+        /**
+         * for文を使用して配列dの要素を出力
+         * .lengthは配列の長さ
+         */
         for (int i = 0; i < d.length; i++) {
             System.out.print(d[i] + " ");
+            // 変数sumに配列dの要素を足している処理
             sum += d[i];
         }
         System.out.println();

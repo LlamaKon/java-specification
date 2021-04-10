@@ -8,13 +8,17 @@ public class Sample3 {
         int m, n;
 
         // 二次元配列に値を代入
+        // 縦の部分を生成
         for (m = 0; m < a.length; m++) {
+            // 横の部分を生成
             for (n = 0; n < a[m].length; n++) {
                 a[m][n] = m + n;
             }
         }
         // 成分の表示
+        // 縦の部分を生成
         for (m = 0; m < a.length; m++) {
+            // 横の部分を生成
             for (n = 0; n < a[m].length; n++) {
                 System.out.print(a[m][n] + " ");
             }
