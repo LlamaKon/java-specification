@@ -25,10 +25,16 @@
 [third](https://github.com/hibikon/java-specification/tree/main/src/Third)
 <br>
 
-## fourth
+## Fourth
 
     - for文
     - 2重for文
     - while文
     - do~while文
     - while文とdo~while文の違い
+    - 無限ループ
+
+[fourth](https://github.com/hibikon/java-specification/tree/main/src/fourth)
+<br>
+
+## Fifth
