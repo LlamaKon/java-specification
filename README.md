@@ -43,3 +43,7 @@
     - 不揃いな配列
 [Fifth](https://github.com/hibikon/java-specification/tree/main/src/fifth)
 <br>
+
+## Sixth
+
+    - クラス・オブジェクト
