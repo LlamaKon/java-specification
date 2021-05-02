@@ -41,7 +41,7 @@
     - 配列変数
     - 配列の初期化
     - 不揃いな配列
-[Fifth](https://github.com/hibikon/java-specification/tree/main/src/fifth)
+[fifth](https://github.com/hibikon/java-specification/tree/main/src/fifth)
 <br>
 
 ## Sixth
@@ -55,5 +55,10 @@
 
     - アクセス指定子
     - カプセル化
+[seventh](https://github.com/hibikon/java-specification/tree/main/src/seventh)
+<br>
+
+## Eighth
+
 
 
