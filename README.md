@@ -47,3 +47,13 @@
 ## Sixth
 
     - クラス・オブジェクト
+    - 複数のインスタンス
+[sixth](https://github.com/hibikon/java-specification/tree/main/src/sixth)
+<br>
+
+## Seventh
+
+    - アクセス指定子
+    - カプセル化
+
+
