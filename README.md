@@ -58,7 +58,11 @@
 [seventh](https://github.com/hibikon/java-specification/tree/main/src/seventh)
 <br>
 
-## Eighth
+## Dev1
+
+    - 静的メンバ
+    - 自身のメソッド
+
 
 
 
