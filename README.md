@@ -62,6 +62,9 @@
 
     - 静的メンバ
     - 自身のメソッド
+[dev1](https://github.com/hibikon/java-specification/tree/main/src/dev1)
+<br>
+
 
 
 
