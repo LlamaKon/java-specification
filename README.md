@@ -68,7 +68,9 @@
 ## Dev2
 
     -継承
-    -
+    -Objectクラス
+[dev2](https://github.com/hibikon/java-specification/tree/main/src/dev2)
+<br>
 
 
 
