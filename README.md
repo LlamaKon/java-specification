@@ -65,6 +65,11 @@
 [dev1](https://github.com/hibikon/java-specification/tree/main/src/dev1)
 <br>
 
+## Dev2
+
+    -継承
+    -
+
 
 
 
