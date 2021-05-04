@@ -67,10 +67,15 @@
 
 ## Dev2
 
-    -継承
-    -Objectクラス
+    - 継承
+    - Objectクラス
 [dev2](https://github.com/hibikon/java-specification/tree/main/src/dev2)
 <br>
+
+## Dev3
+
+    - 抽象クラス
+
 
 
 
