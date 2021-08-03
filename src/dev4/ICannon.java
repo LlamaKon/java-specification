@@ -14,5 +14,5 @@ public interface ICannon {
      */
 
     // 大砲を撃つ
-    public void fire();
+    public abstract void fire();
 }
