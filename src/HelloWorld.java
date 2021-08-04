@@ -1,17 +1,29 @@
+import java.util.*;
 
 /*
-クラス定義
-public class <Class name>
+テストコード
  */
 public class HelloWorld {
 
-    // クラスの処理を実行するために記載する文
-    public static void main(String[] arg) {
+    static Map<String, String> map = new HashMap<>();
+    static List<String> keys = List.of("A", "B", "C");
+    static String[] values = {"1", "2", "3"};
 
-        /*
-        出力するための文
-         */
-        System.out.println("Hello World!");
-
+    static {
+        for (var i = 0; i < keys.size(); i++) {
+            map.put(keys.get(i), values[i]);
+        }
     }
+
+    public static void main(String[] args) {
+        keys.clear();
+        values = new String[0];
+        System.out.println(map.size() + " " + keys.size() + " " + values.length);
+    }
+
+
+
+
+
+
 }
